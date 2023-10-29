@@ -2,7 +2,7 @@
 TAMU Datathon 2023 Challenge: Build Your Own - How sustainble TAMU Datathon 23 participants are.
 
 
-Purpose: October is National Campus Sustainability Month. That interested me a lot with what sustainability means and on what stage we are on.
+Purpose: October is International Campus Sustainability Month. That interested me a lot with what sustainability means and on what stage we are on.
 
 \Framework: Mapped out a specific issue or point of interest
 
